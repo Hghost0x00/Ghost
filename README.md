@@ -103,7 +103,7 @@ This project is provided as-is for personal use. Feel free to modify and distrib
 
 **Hghost010**
 
-The team : [1hehaq](https://github.com/1hehaq), [coffinxp](https://github.com/coffinxp), [AnonKryptiQuz](https://github.com/AnonKryptiQuz), [Naho666](https://github.com/Naho666), [Nuknov](https://github.com/Nuknov)
+Credit : [1hehaq](https://github.com/1hehaq), [coffinxp](https://github.com/coffinxp), [AnonKryptiQuz](https://github.com/AnonKryptiQuz), [Naho666](https://github.com/Naho666), [Nuknov](https://github.com/Nuknov)
 
 ---
 
